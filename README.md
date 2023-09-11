@@ -4,6 +4,17 @@
 <p align="left">
 <a href="https://linkedin.com/in/sergey-tsyganov-434868184/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sergey-tsyganov-434868184/" height="30" width="40" /></a>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+</p>
+
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maricavor&count_private=true&show_icons=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maricavor&layout=compact)
+ 
 <!--
 **maricavor/maricavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
